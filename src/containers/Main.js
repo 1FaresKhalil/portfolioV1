@@ -40,9 +40,6 @@ const Main = () => {
         <StartupProject />
         <Achievement />
         <Blogs />
-        <Talks />
-        <Twitter />
-        <Podcast />
         <Profile />
         <Footer />
         <Top />
